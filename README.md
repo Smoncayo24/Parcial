@@ -21,11 +21,11 @@ Lo utilizamos para subir cambios necesarios.
 : Añade todos los archivos modificados al área de preparación para ser incluidos en el próximo commit.
 Lo utilizamos para subir cambios.
 
-*$ git commit -m "da"*
+*$ git commit -m "Cambios"*
 : Realiza un commit con los cambios previamente agregados al área de preparación. El mensaje "da" es un comentario que describe los cambios realizados.
 Lo utilizamos para escribir algo y subir cambios.
 
-*$ git push origin feature/multiplicacion*
+*$ git push origin Cambios*
 : Sube los commits locales al repositorio remoto, específicamente a la rama "feature/multiplicacion".
 Lo utilizamos para pasar los cambios desde una rama a otra.
 
